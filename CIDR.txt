@@ -1,0 +1,59 @@
+🧠 Detailed Explanation
+Class A
+Range: 0.0.0.0 to 127.255.255.255
+
+Network Bits: 8
+
+Host Bits: 24
+
+Default Subnet Mask: 255.0.0.0
+
+Use Case: Designed for very large networks, such as major international organizations or ISPs.
+
+Total Networks: 128
+
+Hosts per Network: Approximately 16 million
+
+Class B
+Range: 128.0.0.0 to 191.255.255.255
+
+Network Bits: 16
+
+Host Bits: 16
+
+Default Subnet Mask: 255.255.0.0
+
+Use Case: Suitable for medium-sized networks, like universities or large businesses.
+
+Total Networks: 16,384
+
+Hosts per Network: 65,534
+
+Class C
+Range: 192.0.0.0 to 223.255.255.255
+
+Network Bits: 24
+
+Host Bits: 8
+
+Default Subnet Mask: 255.255.255.0
+
+Use Case: Ideal for small networks, such as small businesses or departments.
+
+Total Networks: Over 2 million
+
+Hosts per Network: 254
+
+Class D (Multicast)
+Range: 224.0.0.0 to 239.255.255.255
+
+Use Case: Reserved for multicast groups, allowing data to be sent to multiple destinations simultaneously.
+
+Note: Not used for standard host addressing.
+
+Class E (Reserved)
+Range: 240.0.0.0 to 255.255.255.255
+
+Use Case: Reserved for experimental purposes and future use.
+
+Note: Not used in public networks.
